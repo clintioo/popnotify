@@ -42,6 +42,10 @@ popNotify.js is a simple Javascript plugin (2.6KB minified) providing support fo
 			lang: '',
 			tag: ''});
 
+## Demo ##
+
+[See a demo at Codepen.](http://codepen.io/clintioo/details/mjgcp)
+
 ## Licence ##
 
 popNotify.js is released under the MIT license.
