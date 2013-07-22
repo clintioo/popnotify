@@ -14,7 +14,7 @@ popNotify.js is a simple Javascript plugin (2.6KB minified) providing support fo
 
 1. Add the script to your page
 
-    https://raw.github.com/clintioo/popnotify/master/popnotify-1.0.0-min.js
+    <script src="popnotify-1.0.0.js"></script>
 
 2. Initialise the plugin
 
@@ -38,9 +38,7 @@ popNotify.js is a simple Javascript plugin (2.6KB minified) providing support fo
 		pop.showNotification('Your Title', {
 			body: 'Your Body Text', 
 			iconUrl: 'http://your.image/url',
-			dir: 'auto',
-			lang: '',
-			tag: ''});
+			dir: 'auto'});
 
 ## Demo ##
 
